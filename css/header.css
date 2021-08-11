@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background: url(../img/bg.png) no-repeat;
+    background-size: cover;
+}
+
+.img1{
+    display: block;
+    margin: 0 auto;
+    padding-top: 41px;
+}
+
+.txt1{
+    font-size: 60px;
+    text-align: center;
+    margin-top: 318px;
+    color: #fff;
+}
+
+.txt2 span{
+    color: white;
+    margin-top: 21px;
+    size: 16px;
+    font-weight:600;
+}
+
+.txt2{
+    text-align: center;
+}
+
+.txt3 span{
+    font-size: 11px;
+    color: white;
+    width: 11p7x;
+    font-weight: 600;
+}
+
+.txt3{
+    text-align: center;    
+    margin-top: 221px;
+    padding-bottom: 71px;
+}
+

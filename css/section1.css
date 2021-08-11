@@ -1,0 +1,40 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.container1{
+    width: 941px;
+    margin: 0 auto;
+}
+
+.ul1 li{
+    list-style-type: none;
+    display: inline;
+    margin-left: 48px;
+    color:black;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.wrap{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img2{
+    width: 79.5px;
+    height: 18px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.ul1{
+    margin: 0;    
+    padding-top: 25px;
+    padding-bottom: 24px;
+}
+
+li.active {
+    color:  #00A4E5;
+}
